@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Graduate from India.
+🎓 Computer Science Engineering Graduate from VCET Madurai.
 
 💻 Passionate Software Engineer focused on building scalable web applications and AI-powered solutions.
 
@@ -117,48 +117,133 @@
 
 ## 🚨 Emergency Management System Using Generative AI
 
-AI-powered emergency response platform that analyzes real-time information, predicts risks, assists emergency teams, and improves disaster management using Generative AI concepts.
+An AI-powered emergency response platform that analyzes real-time information, predicts disaster risks, generates intelligent reports, and assists emergency teams using Generative AI and machine learning.
 
-**Tech:** HTML • CSS • JavaScript • AI
+**Tech Stack**
+
+- Python 3
+- Flask
+- Pandas
+- Matplotlib
+- Google Gemini AI
+- PyTorch
+- Hugging Face Transformers
+- SQLite
+- Tailwind CSS
+- Chart.js
+- Font Awesome
+- Python-dotenv
+- Logly
 
 ---
 
-## 📈 Realticker AI Stock Insights
+## 📈 RealTicker AI Stock Insights
 
-AI-powered stock analysis platform providing market insights and intelligent analytics.
+An AI-powered stock market analytics platform that provides intelligent stock insights, market trend analysis, and AI-assisted predictions through a modern full-stack architecture.
 
-**Tech:** JavaScript
+**Tech Stack**
+
+- React
+- Vite
+- Node.js
+- Python 3.10+
+- FastAPI
+- Uvicorn
+- Hugging Face API
+- JavaScript
+- HTML
+- CSS
 
 ---
 
 ## ✅ TaskFlow AI
 
-AI-powered task management application focused on improving productivity.
+A modern AI-powered productivity and task management platform featuring authentication, real-time dashboards, analytics, and an intuitive user experience.
 
-**Tech:** TypeScript
+**Tech Stack**
+
+- Next.js 15 (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+- Framer Motion
+- Zustand
+- Next.js API Routes
+- Server Actions
+- PostgreSQL
+- Supabase
+- Prisma ORM
+- NextAuth.js
+- Recharts
 
 ---
 
-## 🎓 Smart Student Hub
+## 🎓 SmartHub – Student Management System
 
-Student management platform designed to simplify academic activities and enhance productivity.
+A comprehensive student management platform with secure authentication, dashboards, analytics, and efficient academic record management.
 
-**Tech:** JavaScript
+**Tech Stack**
+
+**Frontend**
+- React.js
+- Vite
+- Material UI (MUI)
+- React Router DOM
+- Axios
+- Recharts
+- React Hot Toast
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JSON Web Token (JWT)
+- bcryptjs
 
 ---
 
 ## 🛒 Ecommerce Website
 
-Responsive e-commerce website with modern UI.
+A modern full-stack e-commerce storefront inspired by Amazon featuring authentication, category and brand filtering, shopping cart management, and responsive UI.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
+
+**Frontend**
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- React Context API
+- LocalStorage
+
+**Backend**
+- Node.js
+- Express.js
+- REST API
+
+**Features**
+- Category & Brand Filtering
+- Product Detail Pages
+- Shopping Cart
+- User Authentication
+- Responsive Design
+- 60+ Product Catalog
 
 ---
 
 ## 🎓 Student Management System
 
-Desktop application developed using Java for managing student records.
+A Java-based desktop application for managing student records with MongoDB integration for efficient data storage and retrieval.
 
+**Tech Stack**
+
+- Java (JDK 8+)
+- MongoDB
+- MongoDB Java Driver
+  
 ---
 
 # 📜 Certifications
