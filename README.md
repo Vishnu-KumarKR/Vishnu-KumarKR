@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishnu Kumar KR
+# Hi 👋, I'm Vishnu Kumar K R
 
 <h3 align="center">Software Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
 
@@ -207,43 +207,11 @@ Road to React (Student Technology Empowerment Program)
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnu-KumarKR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-KumarKR&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vishnu-KumarKR&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-KumarKR&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishnu-KumarKR&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
