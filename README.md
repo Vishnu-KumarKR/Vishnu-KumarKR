@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;ASP.NET+Core+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;MERN+Stack+Developer;ASP.NET+Core+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
