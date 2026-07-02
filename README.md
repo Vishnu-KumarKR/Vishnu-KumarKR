@@ -1,5 +1,5 @@
-# Hi 👋, I'm Vishnu Kumar K R
 
+<h1 align="center">Hi 👋, I'm Vishnu Kumar KR</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
