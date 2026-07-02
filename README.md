@@ -207,16 +207,6 @@ Road to React (Student Technology Empowerment Program)
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-KumarKR&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 ✅ Master ASP.NET Core
