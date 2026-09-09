@@ -50,35 +50,35 @@ Computer Science and Engineering graduate from **Velammal College of Engineering
 
 ## 💻 Tech Stack & Capabilities
 
-<div align="center">
+<div align="left">
 
 ### 🌐 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,cs,html,css" alt="Languages" />
 </p>
 
 ### 🎨 Frontend & UI Frameworks
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend, Databases & ORM
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,flask,mongodb,mysql,postgres,sqlite,supabase" alt="Backend" />
 </p>
 
 ### ☁️ Cloud & Artificial Intelligence
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws,pytorch" alt="Cloud & AI" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 </p>
 
 ### 🛠️ Developer Tools & Environment
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools" />
 </p>
 
