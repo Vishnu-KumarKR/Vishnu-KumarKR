@@ -17,7 +17,7 @@
   <br />
 
   <blockquote>
-    <i>"Building modern web applications and AI-powered solutions with modern technologies."</i>
+    <i>Building modern web applications and AI-powered solutions with modern technologies.</i>
   </blockquote>
 
 </div>
